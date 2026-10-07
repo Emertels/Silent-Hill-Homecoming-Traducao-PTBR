@@ -1,12 +1,19 @@
-# 🏚️ Silent Hill: Homecoming — Tradução PT-BR 🇧🇷
+# 🏚️ Silent Hill 5: Homecoming — Tradução PT-BR 🇧🇷
 
+![Versão](https://img.shields.io/badge/Versão-v1.0.0-blue?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20do%20Brasil-green?style=for-the-badge)
 ![Jogo](https://img.shields.io/badge/Jogo-Silent%20Hill%3A%20Homecoming-darkred?style=for-the-badge)
 ![Plataforma](https://img.shields.io/badge/Plataforma-PC-blue?style=for-the-badge)
 
-Tradução brasileira de **Silent Hill: Homecoming** para PC, revisada por **Emerson Teles**. Este repositório reúne somente os 17 arquivos de texto PT-BR (`*_BRA.str`), com os créditos e marcadores de interface preservados.
+Tradução brasileira de **Silent Hill 5: Homecoming** para PC, revisada por **Emerson Teles**. Este repositório reúne somente os 17 arquivos de texto PT-BR (`*_BRA.str`), com os créditos e marcadores de interface preservados.
 
 ---
+
+## 📥 Download — versão 1.0.0
+
+Baixe o pacote pronto para instalação: [Silent.Hill.5.Homecoming.Traducao.PTBR.v1.0.0.zip](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR/releases/download/v1.0.0/Silent.Hill.5.Homecoming.Traducao.PTBR.v1.0.0.zip).
+
+O ZIP preserva a estrutura `Engine/gameinfo/strings/`. Extraia o conteúdo na pasta do jogo e confirme a substituição dos arquivos após fazer backup.
 
 ## 📋 Conteúdo
 

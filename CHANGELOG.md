@@ -1,4 +1,10 @@
-# Changelog — Tradução PT-BR de Silent Hill: Homecoming
+# Changelog — Silent Hill 5: Homecoming — Tradução PT-BR
+
+## v1.0.0 — 7 de outubro de 2026
+
+- Primeira versão pública organizada para distribuição pelo GitHub.
+- Inclui os 17 arquivos brasileiros revisados, com README e estrutura pronta para instalação.
+- Mantém os créditos de Emerson Teles e não inclui alterações de câmera.
 
 ## 2026-10-02 — Revisão editorial
 
