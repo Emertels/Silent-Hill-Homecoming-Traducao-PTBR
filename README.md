@@ -90,7 +90,7 @@ Antes da instalação, guarde uma cópia dos arquivos `*_BRA.str` que já estão
 
 ## 🛡️ Compatibilidade e escopo
 
-- O ZIP da release usa o sufixo `_BRA` e destina-se ao patch **Unknown Project v3.18 ou posterior**. O changelog do patch v3.18 registra o suporte não oficial aos sufixos `_BRA` (Português do Brasil) e `_CHI` (Chinês Simplificado); a instalação local documentada usa Update 3.20.
+- O ZIP da release usa o sufixo `_BRA` e destina-se ao patch **Unknown Project v3.18 ou posterior**. O `ChangeLog` incluído nos documentos da sua instalação Update 3.20 registra, na seção v3.18 de 18/11/2024, o suporte não oficial aos sufixos `_BRA` (Português do Brasil) e `_CHI` (Chinês Simplificado).
 - No jogo original sem esse patch, o sufixo `_BRA` não é reconhecido. Para usar a tradução, é necessário retirar `_BRA` dos nomes e substituir os arquivos-base em inglês correspondentes, conforme os exemplos da instalação.
 - O jogo original usa nomes-base sem código de idioma, como `gen_dialogue.str` e `strings.str` — não acrescente `_ENG`.
 - Os arquivos `.str` mantêm codificação, marcadores e estrutura necessários à localização.
@@ -101,7 +101,7 @@ Antes da instalação, guarde uma cópia dos arquivos `*_BRA.str` que já estão
 
 ## 🔎 Referências de contexto
 
-Para conferir nomes, relações entre personagens e contexto narrativo, a revisão consultou o [roteiro em inglês de Silent Hill Memories](https://www.silenthillmemories.net/sh5/script_en.htm) e o [manual de PC](https://www.silenthillmemories.net/sh5/versions/silent_hill_homecoming_pc_us_manual.pdf). A referência para o patch de terceiros é o [repositório Unknown Project](https://github.com/unknownproject/Silent_Hill_Homecoming); o changelog local do patch v3.18 registra a inclusão dos sufixos `_BRA` e `_CHI`.
+Para conferir nomes, relações entre personagens e contexto narrativo, a revisão consultou o [roteiro em inglês de Silent Hill Memories](https://www.silenthillmemories.net/sh5/script_en.htm) e o [manual de PC](https://www.silenthillmemories.net/sh5/versions/silent_hill_homecoming_pc_us_manual.pdf). O [repositório Unknown Project](https://github.com/unknownproject/Silent_Hill_Homecoming) identifica o projeto do patch. A confirmação específica do suporte a `_BRA` vem do `ChangeLog` incluído nos documentos do pacote Update 3.20 instalado.
 
 ---
 
