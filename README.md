@@ -5,7 +5,7 @@
 ![Jogo](https://img.shields.io/badge/Jogo-Silent%20Hill%3A%20Homecoming-darkred?style=for-the-badge)
 ![Plataforma](https://img.shields.io/badge/Plataforma-PC-blue?style=for-the-badge)
 
-Tradução brasileira de **Silent Hill 5: Homecoming** para PC, revisada por **Emerson Teles**. Este repositório reúne somente os 17 arquivos de texto PT-BR (`*_BRA.str`), com os créditos e marcadores de interface preservados.
+Tradução brasileira de **Silent Hill 5: Homecoming** para PC, revisada por **Emerson Teles**. O pacote com os 17 arquivos de texto PT-BR está publicado na seção **Releases**, pronto para baixar em ZIP. A página principal mantém apenas a documentação do projeto.
 
 ---
 
@@ -17,7 +17,7 @@ O ZIP preserva a estrutura `Engine/gameinfo/strings/`. Extraia o conteúdo na pa
 
 ## 📋 Conteúdo
 
-Os arquivos ficam no caminho usado pelo jogo:
+Dentro do ZIP da release, os arquivos ficam no caminho usado pelo jogo:
 
 ```text
 Engine/gameinfo/strings/
@@ -44,10 +44,10 @@ O ajuste preexistente `M02_Interest_DrainB2` foi mantido para distinguir uma ent
 
 ## 🚀 Instalação
 
-1. Feche o jogo.
-2. Abra a pasta de instalação de *Silent Hill: Homecoming*.
+1. Baixe o ZIP na seção [Releases](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR/releases/latest).
+2. Feche o jogo e abra a pasta de instalação de *Silent Hill: Homecoming*.
 3. Faça uma cópia de segurança dos arquivos brasileiros atuais em `Engine/gameinfo/strings/`.
-4. Copie os 17 arquivos `*_BRA.str` deste repositório para `Engine/gameinfo/strings/`, substituindo os arquivos correspondentes.
+4. Extraia o conteúdo do ZIP na pasta do jogo e confirme a substituição dos arquivos correspondentes.
 5. Inicie o jogo e selecione Português do Brasil, se a seleção de idioma estiver disponível na sua instalação.
 
 Este pacote contém os arquivos de localização; não inclui instalador automático. Faça backup antes de substituir arquivos.
