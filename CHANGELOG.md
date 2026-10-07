@@ -11,6 +11,7 @@ Primeira publicação organizada da tradução revisada por **Emerson Teles**.
 - Preservados os créditos **EMERSON TELES**, cores, espaçamentos, prompts de tecla/botão, marcadores, chaves e quebras de linha.
 - Mantida a chave `M02_Interest_DrainB2`, usada para distinguir uma entrada duplicada no arquivo-base em inglês.
 - Pacote contém 17 arquivos `.str` PT-BR na estrutura de instalação do jogo.
+- Documentada a diferença de instalação: `_BRA` é reconhecido pelo patch Unknown Project v3.18+; no jogo original, deve-se remover o sufixo e substituir os arquivos-base em inglês sem acrescentar `_ENG`.
 
 **Escopo:** revisão de tradução. Não inclui correção de câmera, alterações de controles, executáveis ou DLLs.
 

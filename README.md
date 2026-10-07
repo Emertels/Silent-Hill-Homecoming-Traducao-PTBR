@@ -72,14 +72,13 @@ O registro resumido fica em [`CHANGELOG.md`](CHANGELOG.md). As notas detalhadas 
 
 ## 🚀 Como instalar
 
-1. Baixe o ZIP na seção [Releases](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR/releases/latest).
-2. Feche o jogo.
-3. Abra a pasta de instalação de *Silent Hill: Homecoming*.
-4. Faça uma cópia de segurança dos arquivos `*_BRA.str` atuais em `Engine/gameinfo/strings/`.
-5. Extraia o conteúdo do ZIP na pasta principal do jogo e confirme a substituição dos arquivos correspondentes.
-6. Inicie o jogo e selecione Português do Brasil, caso essa opção esteja disponível na sua instalação.
+1. Baixe o ZIP na seção [Releases](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR/releases/latest) e feche o jogo.
+2. Abra `Engine/gameinfo/strings/` na pasta de instalação e faça backup dos arquivos que serão substituídos.
+3. Siga **somente** a opção correspondente à sua instalação:
+   - **Com o patch Unknown Project v3.18 ou posterior (incluindo v3.20):** extraia o ZIP nessa pasta e mantenha os nomes com o sufixo `_BRA`.
+   - **Jogo original, sem o patch Unknown Project:** não copie o ZIP como está. Em cada arquivo, remova `_BRA` do nome e substitua o arquivo-base em inglês correspondente. Por exemplo, `gen_dialogue_BRA.str` vira `gen_dialogue.str`, `m01_dialogue_BRA.str` vira `m01_dialogue.str` e `strings_BRA.str` vira `strings.str`.
 
-O pacote não possui instalador automático. A instalação é feita copiando os arquivos para o caminho correspondente.
+Na versão original sem o mod, isso substitui os textos do idioma-base (inglês); o jogo não ganha uma opção de idioma PT-BR. O pacote não possui instalador automático. Preserve o backup para poder restaurar os arquivos anteriores.
 
 ---
 
@@ -91,7 +90,9 @@ Antes da instalação, guarde uma cópia dos arquivos `*_BRA.str` que já estão
 
 ## 🛡️ Compatibilidade e escopo
 
-- Preparado para a estrutura da versão de PC indicada no pacote de jogo **Update 3.20**.
+- O ZIP da release usa o sufixo `_BRA` e destina-se ao patch **Unknown Project v3.18 ou posterior**. O changelog do patch v3.18 registra o suporte não oficial aos sufixos `_BRA` (Português do Brasil) e `_CHI` (Chinês Simplificado); a instalação local documentada usa Update 3.20.
+- No jogo original sem esse patch, o sufixo `_BRA` não é reconhecido. Para usar a tradução, é necessário retirar `_BRA` dos nomes e substituir os arquivos-base em inglês correspondentes, conforme os exemplos da instalação.
+- O jogo original usa nomes-base sem código de idioma, como `gen_dialogue.str` e `strings.str` — não acrescente `_ENG`.
 - Os arquivos `.str` mantêm codificação, marcadores e estrutura necessários à localização.
 - A renderização de caracteres depende da fonte presente na instalação; recomenda-se conferir os textos no jogo após instalar.
 - Este projeto cobre a tradução. Não inclui correção ou alteração da câmera, de controles, executáveis ou DLLs.
@@ -100,7 +101,7 @@ Antes da instalação, guarde uma cópia dos arquivos `*_BRA.str` que já estão
 
 ## 🔎 Referências de contexto
 
-Para conferir nomes, relações entre personagens e contexto narrativo, a revisão consultou o [roteiro em inglês de Silent Hill Memories](https://www.silenthillmemories.net/sh5/script_en.htm) e o [manual de PC](https://www.silenthillmemories.net/sh5/versions/silent_hill_homecoming_pc_us_manual.pdf).
+Para conferir nomes, relações entre personagens e contexto narrativo, a revisão consultou o [roteiro em inglês de Silent Hill Memories](https://www.silenthillmemories.net/sh5/script_en.htm) e o [manual de PC](https://www.silenthillmemories.net/sh5/versions/silent_hill_homecoming_pc_us_manual.pdf). A referência para o patch de terceiros é o [repositório Unknown Project](https://github.com/unknownproject/Silent_Hill_Homecoming); o changelog local do patch v3.18 registra a inclusão dos sufixos `_BRA` e `_CHI`.
 
 ---
 
