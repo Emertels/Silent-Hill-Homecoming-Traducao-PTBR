@@ -2,6 +2,7 @@
 
 ![Versão](https://img.shields.io/badge/Versão-v1.0.0-blue?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20do%20Brasil-green?style=for-the-badge)
+![Licença](https://img.shields.io/badge/Licença-MIT-purple?style=for-the-badge)
 ![Plataforma](https://img.shields.io/badge/Plataforma-PC-5B8DEF?style=for-the-badge)
 
 Tradução brasileira de **Silent Hill 5: Homecoming** para PC, criada por **Emerson Teles** e revisada para esta versão. O pacote de instalação fica na seção **Releases**; esta página reúne informações do projeto, instruções e histórico.
@@ -111,8 +112,9 @@ Para conferir nomes, relações entre personagens e contexto narrativo, a revis�
 - **Revisão editorial desta versão:** Emerson Teles
 - **Idioma:** Português do Brasil (`pt-BR`)
 - **Versão do pacote:** 1.0.0
+- **Licença:** [MIT](LICENSE)
 
-Os créditos existentes dentro do jogo, incluindo **EMERSON TELES**, foram mantidos. *Silent Hill* é propriedade de seus respectivos titulares. Esta tradução de fã é um projeto independente e não possui afiliação ou endosso da Konami.
+Os créditos existentes dentro do jogo, incluindo **EMERSON TELES**, foram mantidos. Este projeto e seus utilitários são distribuídos sob a licença [MIT](LICENSE). *Silent Hill* é propriedade de seus respectivos titulares. Esta tradução de fã é um projeto independente e não possui afiliação ou endosso da Konami.
 
 ---
 
