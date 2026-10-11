@@ -9,18 +9,29 @@ Tradução brasileira de **Silent Hill 5: Homecoming** para PC, criada por **Eme
 
 ---
 
+## 🎥 Vídeo Tutorial & Demonstração
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ESQYr1KEDGs" target="_blank">
+    <img src="https://img.youtube.com/vi/ESQYr1KEDGs/maxresdefault.jpg" alt="Vídeo Tutorial da Tradução de Silent Hill 5 no YouTube" width="95%">
+  </a>
+</p>
+
+---
+
 ## 📋 Índice
 
-1. [Sobre o projeto](#-sobre-o-projeto)
-2. [Download da versão 1.0.0](#-download-da-versão-100)
-3. [Conteúdo traduzido](#-conteúdo-traduzido)
-4. [Revisão da tradução](#-revisão-da-tradução)
-5. [Como instalar](#-como-instalar)
-6. [Como restaurar os arquivos anteriores](#-como-restaurar-os-arquivos-anteriores)
-7. [Compatibilidade e escopo](#-compatibilidade-e-escopo)
-8. [Referências de contexto](#-referências-de-contexto)
-9. [Créditos e autoria](#-créditos-e-autoria)
-10. [Sobre o autor](#-sobre-o-autor)
+1. [Vídeo Tutorial & Demonstração](#-vídeo-tutorial--demonstração)
+2. [Sobre o projeto](#-sobre-o-projeto)
+3. [Download da versão 1.0.0](#-download-da-versão-100)
+4. [Conteúdo traduzido](#-conteúdo-traduzido)
+5. [Revisão da tradução](#-revisão-da-tradução)
+6. [Como instalar](#-como-instalar)
+7. [Como restaurar os arquivos anteriores](#-como-restaurar-os-arquivos-anteriores)
+8. [Compatibilidade e escopo](#-compatibilidade-e-escopo)
+9. [Referências de contexto](#-referências-de-contexto)
+10. [Créditos e autoria](#-créditos-e-autoria)
+11. [Sobre o autor](#-sobre-o-autor)
 
 ---
 
