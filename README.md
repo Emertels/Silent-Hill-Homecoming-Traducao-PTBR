@@ -23,15 +23,14 @@ Tradução brasileira de **Silent Hill 5: Homecoming** para PC, criada por **Eme
 
 1. [Vídeo Tutorial & Demonstração](#-vídeo-tutorial--demonstração)
 2. [Sobre o projeto](#-sobre-o-projeto)
-3. [Download da versão 1.0.0](#-download-da-versão-100)
-4. [Conteúdo traduzido](#-conteúdo-traduzido)
-5. [Revisão da tradução](#-revisão-da-tradução)
-6. [Como instalar](#-como-instalar)
-7. [Como restaurar os arquivos anteriores](#-como-restaurar-os-arquivos-anteriores)
-8. [Compatibilidade e escopo](#-compatibilidade-e-escopo)
-9. [Referências de contexto](#-referências-de-contexto)
-10. [Créditos e autoria](#-créditos-e-autoria)
-11. [Sobre o autor](#-sobre-o-autor)
+3. [Conteúdo traduzido](#-conteúdo-traduzido)
+4. [Revisão da tradução](#-revisão-da-tradução)
+5. [Como instalar](#-como-instalar)
+6. [Como restaurar os arquivos anteriores](#-como-restaurar-os-arquivos-anteriores)
+7. [Compatibilidade e escopo](#-compatibilidade-e-escopo)
+8. [Referências de contexto](#-referências-de-contexto)
+9. [Créditos e autoria](#-créditos-e-autoria)
+10. [Sobre o autor](#-sobre-o-autor)
 
 ---
 
@@ -43,15 +42,6 @@ O pacote contém apenas os arquivos localizados e a documentação. Não inclui 
 
 ---
 
-## 📥 Download da versão 1.0.0
-
-### [⬇️ Baixar Silent Hill 5: Homecoming PT-BR v1.0.0](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR/releases/download/v1.0.0/Silent.Hill.5.Homecoming.Traducao.PTBR.v1.0.0.zip)
-
-[Ver notas completas da versão na página Releases](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR/releases/tag/v1.0.0).
-
-O arquivo ZIP preserva o caminho `Engine/gameinfo/strings/` e inclui os 17 arquivos de localização PT-BR, este README e o changelog.
-
----
 
 ## 🎯 Conteúdo traduzido
 
@@ -141,11 +131,16 @@ Entusiasta de tecnologia, informática, jogos, manutenção de sistemas e tradu�
 - [Antigravity — Tradução PT-BR](https://github.com/Emertels/Antigravity-Traducao-PTBR) — Localização completa do Google Antigravity Desktop para Português do Brasil.
 - [Codex Router — Tradução PT-BR](https://github.com/Emertels/CodexRouter-Traducao-PTBR) — Pacote de tradução e localização do Codex Router Control Center em PT-BR.
 - [Cursor AI — Tradução PT-BR](https://github.com/Emertels/Cursor-Traducao-PTBR) — Localização completa e profunda do Cursor AI para Português do Brasil.
+- [Devin AI — Tradução PT-BR](https://github.com/Emertels/Devin-Traducao-PTBR) — Tradução e localização completa do Devin Desktop para Português do Brasil.
 - [GPU Tweak III — Tradução PT-BR](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR) — Tradução em português brasileiro e instalador automatizado para ASUS GPU Tweak III.
+- [ICSee Desktop Viewer](https://github.com/Emertels/ICSee-Desktop-Viewer) — Aplicativo desktop moderno e portátil para visualização e controle de câmeras ICSee e ONVIF no Windows.
 - [Microsoft Photos Fix](https://github.com/Emertels/Microsoft-Photos-Fix) — Solução definitiva em PowerShell e C# para rota de inicialização rápida e visualização no app Fotos do Windows.
 - [PSBBN-Translator](https://github.com/Emertels/PSBBN-Translator) — Suíte corporativa de tradução e localização para o PSBBN Definitive Project (PlayStation 2) em 40 idiomas.
+- [Silent Hill 4: The Room — Tradução PT-BR](https://github.com/Emertels/Silent-Hill-4-The-Room-Traducao-PTBR) — Tradução canônica e completa para PC (GOG) em português brasileiro.
 - [Silent Hill: Homecoming — Tradução PT-BR](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR) — Tradução e revisão completa do jogo para PC em português brasileiro.
+- [Silent Hill: Homecoming — Camera Fix](https://github.com/Emertels/Silent-Hill-5-Camera-Fix) — Correção de sensibilidade independente de câmera e suporte total a controles.
 - [Suite-Emuladores](https://github.com/Emertels/Suite-Emuladores) — Suíte inteligente em PowerShell para download e atualização autônoma de 56 emuladores e frontends no Windows.
+- [Xbox 360 Controller Calibration Tool](https://github.com/Emertels/Xbox-360-Controller-Calibration-Tool) — Ferramenta profissional para calibração avançada de controles Xbox 360 no Windows.
 - [ZCode — Tradução PT-BR](https://github.com/Emertels/ZCode-Traducao-PTBR) — Tradução e localização completa do ZCode Desktop para Português do Brasil.
 
 ### 🌐 Conecte-se comigo & Comunidades Oficiais
